@@ -2,7 +2,7 @@ import google.generativeai as genai
 import signal
 
 # Configure the API key
-genai.configure(api_key="AIzaSyA4TRH7gtEmH_KU0TetZBT7iAcMrrui_tM")
+genai.configure(api_key="provide gemini api here")
 
 # Set up the model generation configuration
 generation_config = {

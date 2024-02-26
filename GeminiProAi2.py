@@ -3,7 +3,7 @@ import google.generativeai as genai
 import signal
 
 # Configure the API key
-genai.configure(api_key="AIzaSyBOPZ9ZXkfLM8Ic75CgPhiyiqyOQ9i1i4k")
+genai.configure(api_key="ADD API HERE")
 
 # Set up the model generation configuration
 generation_config = {
